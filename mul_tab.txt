@@ -1,0 +1,16 @@
+import java.io.*;
+import java.util.*;
+class mul_tables
+{
+	public static void main(string args[])
+		{
+			int n,i;
+			System.out.println("enter the number:");
+			Scanner s=new Scanner();
+			n=s.nextInt();
+			for(i=0;i<=20;i++)
+			{
+				system.out.println(n+"x"+i=+"n*i");
+			}
+		}
+}
