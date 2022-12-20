@@ -10,7 +10,7 @@ class mul_tables
 			n=s.nextInt();
 			for(i=0;i<=20;i++)
 			{
-				system.out.println(n+"x"+i=+"n*i");
+				system.out.println(n+"x"+i+"="+(n*i));
 			}
 		}
 }
